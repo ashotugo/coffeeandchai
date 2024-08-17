@@ -3,7 +3,7 @@ layout: post
 title: You’re Engaged! Now what?
 subtitle: Practical Tips to Start the Wedding Process
 cover-img: /assets/img/engaged.jpg
-thumbnail-img: /assets/img/engaged.png
+thumbnail-img: /assets/img/engaged.jpg
 share-img: /assets/img/engaged.jpg
 tags: [engaged, how-to]
 ---
@@ -84,14 +84,15 @@ Start by researching venues in your area that align with your vision and budget.
 
 When touring venues, keep these questions in mind:
 
-**Capacity**: Does the venue comfortably accommodate your estimated guest count?
-**Availability**: Is the venue available on your desired wedding date? If not, are you flexible with your date?
-**Style**: Does the venue’s aesthetic match the vibe you’re going for? Will it require a lot of additional décor to achieve your vision?
-**Cost**: What is the venue’s rental fee, and what’s included? Are there any additional costs for things like tables, chairs, or linens?
-**Logistics**: Is the venue easily accessible for your guests? Are there nearby accommodations if needed? What’s the parking situation?
-**Weather**: If you’re planning an outdoor wedding, what’s the backup plan in case of bad weather?
-**Catering and Vendors**: Does the venue have in-house catering, or can you bring in your own vendors? Are there any restrictions or preferred vendor lists you need to be aware of?
-**Hours**: What is the latest time your reception can end?
+- **Capacity**: Does the venue comfortably accommodate your estimated guest count?
+- **Availability**: Is the venue available on your desired wedding date? If not, are you flexible with your date?
+- **Style**: Does the venue’s aesthetic match the vibe you’re going for? Will it require a lot of additional décor to achieve your vision?
+- **Cost**: What is the venue’s rental fee, and what’s included? Are there any additional costs for things like tables, chairs, or linens?
+- **Logistics**: Is the venue easily accessible for your guests? Are there nearby accommodations if needed? What’s the parking situation?
+- **Weather**: If you’re planning an outdoor wedding, what’s the backup plan in case of bad weather?
+- **Catering and Vendors**: Does the venue have in-house catering, or can you bring in your own vendors? Are there any restrictions or preferred vendor lists you need to be aware of?
+- **Hours**: What is the latest time your reception can end?
+
 Remember, your venue will play a huge role in shaping the look and feel of your wedding day, so choose a place that feels like “you.” Whether it’s a rustic barn, an elegant ballroom, or a trendy rooftop, make sure it aligns with your vision and makes you feel excited about saying “I do.”
 
 ## 4. Relax and Enjoy the Process
