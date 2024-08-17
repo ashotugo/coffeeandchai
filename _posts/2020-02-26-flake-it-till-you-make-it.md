@@ -11,7 +11,7 @@ author: TBD
 
 Congratulations! You’re engaged, and that shiny ring on your finger is a constant reminder that you’re about to start one of the most exciting chapters of your life. But before you dive headfirst into wedding planning, take a deep breath. The journey can be both thrilling and overwhelming, and it’s easy to get caught up in the details. So, where do you start? Here’s a guide to help you navigate the early stages of wedding planning with confidence.
 
-###1. Create an Estimated Guest List
+### 1. Create an Estimated Guest List
 The number of guest directly impact your budget
 Now that you’ve got the big picture in mind, it’s time to start thinking about your guest list. This step is crucial because your guest count will directly impact your budget, venue options, and overall wedding experience. Start by jotting down the names of everyone you’d like to invite, from immediate family and close friends to distant relatives and coworkers. Don’t stress about getting the exact number just yet—this is just an estimate. However, keep in mind that the more guests you invite, the higher your costs will be.
 
@@ -34,7 +34,7 @@ Total = $48,675 (excluding taxes)
 
 Now you should have a better idea of how many people will make the cut.
 
-###2. Set a Budget
+### 2. Set a Budget
 Now it’s time to set a budget.
 While budgeting may not be the most glamorous part of wedding planning, it’s one of the most crucial. Start by having an honest conversation with your partner about how much you’re both comfortable spending. Don’t forget to factor in any contributions from family members or other sources of funding.
 
@@ -71,7 +71,7 @@ Grand Total Estimate: $66,475
 
 This breakdown helps you see how quickly costs can add up and why it’s essential to plan and budget carefully.
 
-###3. Research and Tour Wedding Venues
+### 3. Research and Tour Wedding Venues
 Now for the fun part—finding your dream venue! Your venue will set the tone for your entire wedding day, so take your time with this step. Don’t rush! Start early! Start early! Basking in the moment is great, but don’t wait too long. Venue dates fill up quickly, and you also want to give yourself time to make payments on the venue. For example, if you book a venue 12 months out, you will have 12 months to make monthly payments.
 
 Start by researching venues in your area that align with your vision and budget. Consider factors such as parking, capacity, style, and amenities. Do you want an indoor or outdoor wedding? Are you dreaming of a historic mansion, a modern loft, or a beachside ceremony? Narrow down your options and make a list of venues you’d like to tour.
@@ -88,7 +88,7 @@ Catering and Vendors: Does the venue have in-house catering, or can you bring in
 Hours: What is the latest time your reception can end?
 Remember, your venue will play a huge role in shaping the look and feel of your wedding day, so choose a place that feels like “you.” Whether it’s a rustic barn, an elegant ballroom, or a trendy rooftop, make sure it aligns with your vision and makes you feel excited about saying “I do.”
 
-###4. Relax and Enjoy the Process
+### 4. Relax and Enjoy the Process
 Last but not least, don’t forget to enjoy the process. Wedding planning can be stressful at times, but it’s also a once-in-a-lifetime experience. Take breaks when you need to, lean on your partner and loved ones for support, and remember that the most important thing is marrying the love of your life.
 
 So, go ahead and pop that champagne, because you’re engaged, and the best is yet to come. Happy planning!
